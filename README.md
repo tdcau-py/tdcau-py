@@ -11,4 +11,4 @@
 - Верстка сайта по PSD-макету (https://github.com/tdcau-py/final_work_html_css.git)
 - Дипломная работа (https://github.com/tdcau-py/final_project.git)
 
-(https://github.com/tdcau-py/tdcau-py/blob/main/img/telegram.svg)
+!(https://github.com/tdcau-py/tdcau-py/blob/main/img/telegram.svg)
