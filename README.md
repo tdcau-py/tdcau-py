@@ -10,6 +10,7 @@
 #### Мои проекты
 - Верстка сайта по PSD-макету (https://github.com/tdcau-py/final_work_html_css.git)
 - Дипломная работа (https://github.com/tdcau-py/final_project.git)
+- Личный проект для работы (https://github.com/tdcau-py/doc_prepare_system.git)
 
 [<img src="https://github.com/tdcau-py/tdcau-py/blob/main/img/telegram.svg" width="35" height="35">](https://t.me/tdcau_py)
 
